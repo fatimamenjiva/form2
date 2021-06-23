@@ -1,0 +1,39 @@
+[type=text], select {
+    width: 80%;
+  padding: 10px 10px;
+  margin: 10px 68;
+  border: 1px solid #2c5b02;
+  font-family: cursive;
+  position: absolute;
+}
+  [type=email], select {
+    width: 80%;
+  padding: 10px 10px;
+  margin: 10px 68;
+  border: 1px solid #2c5b02;
+  font-family: cursive;
+  position: absolute;
+
+
+}
+[id=message], select {
+    width: 80%;
+      padding: 2px 10px;
+  border: 2px solid #008f39;
+  font-family: cursive;
+font-size: 100%;
+outline: none;
+position: absolute; 
+margin: 2.75em auto 24;
+}
+[for=validationDefault01]{
+font-family: cursive;
+}
+[for=validationDefault02]{
+font-family: cursive;
+}
+div {
+  background-color: #bdecb6;
+  padding: 38px;
+
+}
